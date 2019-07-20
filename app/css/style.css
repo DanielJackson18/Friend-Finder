@@ -1,12 +1,4 @@
-body {
-	font-family: 'Roboto', sans-serif;
-	background: #5c7cb8;
-	background-image: url("https://images.pexels.com/photos/1198507/pexels-photo-1198507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
-	background: cover;
-	background-size: 100%;
-	background-repeat: no-repeat;
 
-}
 
 .bodySurvey {
 	font-family: 'Roboto', sans-serif;
@@ -15,6 +7,7 @@ body {
 	background: cover;
 	background-size: 100%;
 	background-repeat: no-repeat;
+	background: cover;
 
 }
 
@@ -22,6 +15,12 @@ body {
 	display: flex;
 	min-height: 100vh;
 	flex-direction: column;
+	font-family: 'Roboto', sans-serif;
+	background: #5c7cb8;
+	background-image: url("https://images.pexels.com/photos/1198507/pexels-photo-1198507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	background: cover;
+	background-size: 100%;
+	background-repeat: no-repeat;
 }
 
 .content {
